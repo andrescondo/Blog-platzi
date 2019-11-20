@@ -1,54 +1,26 @@
 body
 {
-	color: #000;
-	text-align: center;
-	font-family: 'arial';
-	margin: 0;
-	padding: 0;
 	background: #2d2d2d;
-
-}	
- 
-#container
+}
+.container
 {
 	background: #fff;
 	width: 70%;
-	padding: 1em;
-	text-align: left;
-	border:1px solid #ddd;
-	margin: 50px auto;
-}
-
-#container h1
-{
-	font-size: 20px;
-}
-
-#parrafo
-{
-	color: #000;
-}
-
-.img
-{
-	width: 50%;
-}
-
-h1
-{
-
-	background: #bf3480;
-	padding: 20px;
-	text-align: right;
+	margin: 0 auto;
 	border:1px solid #000;
 }
 
-.footer
+.titulo
 {
-	background: #2d2d2d;
+	background: #ba0000;
+	text-align: right;
+	padding: 15px 0;
 	color: #fff;
-	padding: 8px;
-	font-size: 1.2em;
+	font-size: 20px;
+}
+
+.sub
+{
 	text-align: center;
-	
+	font-size: 1.2em;
 }
